@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "artist": "Dream Theater",
+    "album": "Metropolis Pt. 2: Scenes from a Memory",
+    "song": "Scene One: Regression",
+    "songyear": "1999"
+  },
+  {
+    "id": 2,
+    "artist": "Dream Theater",
+    "album": "Metropolis Pt. 2: Scenes from a Memory",
+    "song": "Scene Two: I. Overture 1928",
+    "songyear": "1999"
+  },
+  {
+    "id": 3,
+    "artist": "Dream Theater",
+    "album": "Metropolis Pt. 2: Scenes from a Memory",
+    "song": "Scene Two: II. Strange Deja Vu",
+    "songyear": "1999"
+  },
+  {
+    "id": 4,
+    "artist": "Dream Theater",
+    "album": "Metropolis Pt. 2: Scenes from a Memory",
+    "song": "Scene Three: I. Through My Words",
+    "songyear": "1999"
+  },
+]
